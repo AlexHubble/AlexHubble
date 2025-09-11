@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+X: [@alexgiantwhale](https://x.com/alexgiantwhale)
 <!--
 **AlexHubble/AlexHubble** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
